@@ -8,6 +8,7 @@ System .out.println("good Bye");
 for(int s=0;s>5;s++){
 system.out.prin(s);
 }
+System.out.print();
 }
   
 }
